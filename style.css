@@ -1,0 +1,62 @@
+
+body{
+	background-color: #FFF6FC;
+	color: rgb(50;50;50);
+	font-family: 'Lora', serif;
+	font-size: 16px;
+	margin: 80px;
+	padding: 40px;
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	
+	
+
+}
+
+img{
+	border-radius: 50%;
+	box-shadow: 5px 5px 3px black;
+
+}
+
+div{width: 700px;
+	margin:40px auto;
+}
+
+
+
+#banner h2{
+	background-color: pink;
+}
+
+h1{color: #7A1313;
+	font-family:  'Assistant', sans-serif;
+	font-weight: 700;
+	font-size:46px;
+
+
+
+}
+
+h2 {
+	color: #CD5F5F;
+	font-size: 20px;
+	font-family:  'Assistant', sans-serif;
+	font-weight: 400;
+
+}
+
+a {
+	text-decoration: none;
+	color: #640707;
+	font-family:  'Assistant', sans-serif;
+	font-weight: 700;
+	font-size: 20px;
+
+}
+
+a:hover {
+	color: #FF00A1;
+}
+
+
